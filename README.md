@@ -1,4 +1,4 @@
-# KDA Icons
+# KDA Icons (In Progress)
 
 SVG path based on `material-design-icons`, this is a dependency of `@kda/design-system`, do not use it indenpendently.
 
