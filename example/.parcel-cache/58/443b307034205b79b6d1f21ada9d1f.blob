@@ -1,0 +1,6 @@
+"use strict";
+if ("development" === 'production') {
+  module.exports = require('./icons.cjs.production.min.js');
+} else {
+  module.exports = require('./icons.cjs.development.js');
+}
