@@ -3,9 +3,6 @@
   "license": "MIT",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
-  "publishConfig": {
-    "registry": "http://maven.idcos.net:8081/repository/npm-idcos-internal/"
-  },
   "files": [
     "dist",
     "src"
